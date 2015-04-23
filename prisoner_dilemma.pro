@@ -5,3 +5,6 @@ CONFIG -= qt
 CONFIG += C++11
 SOURCES += main.cpp
 
+HEADERS += \
+    example.hpp
+

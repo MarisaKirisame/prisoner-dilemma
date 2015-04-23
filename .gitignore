@@ -11,5 +11,4 @@
 *.lai
 *.la
 *.a
-main.cpp
 *.pro.user
